@@ -1,0 +1,248 @@
+:root{
+    --parimary-color: #9db4b2;
+    --secondary-color: #3e0f42;
+    --color-white: white;
+    --color-black: black;
+    --color-rad:red;
+    --size-lg: 1.125rem;
+    --size-md: 1rem;
+    --size-sm: .875rem
+}
+
+.navbar{
+    background-color: var(--parimary-color);
+    
+}
+.collapse .nav-item .nav-link{
+    align-items: center !important;
+    font-size: 20px;
+    
+}
+.collapse .nav-item .nav-link:hover{
+    color: var(--color-rad);
+    
+   
+}
+
+
+
+.carousel-inner img{
+    height: 600px !important;
+}
+
+
+
+
+.phato img{
+    width: 100px;
+}
+
+.phato{
+    width: 100%;
+    height: 100px;
+}
+
+
+
+
+
+
+.aboutus h4{
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+    color: var(--color-rad);
+    /* background-color: #6f3525; */
+   
+}
+.aboutus a{
+    width: 500px;
+    padding: 10px;
+    background-color: var(--color-rad);
+    color: var(--color-white);
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px !important;
+}
+.aboutus i{
+    margin-top: 50px !important;
+    font-size: 15px !important;
+
+
+}
+
+
+.card{
+    background-color: aliceblue;
+    height: 300px !important;
+}
+.card .tex-box{
+    margin-left: 20px !important;
+}
+.card .icon-box{
+    margin-left: 20px !important;
+    margin-bottom: 30px !important;
+    
+    color: var(--color-rad) !important;
+ 
+    
+    
+    
+
+}
+.icon-box i{
+
+    font-size: 50px;
+}
+.icon-box i:hover{
+    width: 400px !important;
+    height: 400px !important;
+    border-radius: 50% !important;
+    
+    background-color: var(--color-rad);
+    color: var(--color-white);
+}
+
+
+
+
+.nd-slideber{
+    width: 100%;
+    height: 400px;
+   background-image: url(../imge/stats-bg.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+
+}
+.nd-slideber .as{
+    margin: auto;
+    margin-top: 200px;
+    color: var(--color-black);
+}
+
+.Services{
+    text-align: center;
+}
+.row i{
+    font-size: 100px;
+}
+.text-s{
+    margin-left: 30px;
+}
+.text-s h2:hover{
+    color: var(--color-rad);
+
+}
+
+
+
+/* Features st */
+.Features{
+    text-align: center;
+}
+.text-features{
+    margin-top: 200px;
+}
+
+.text-features button{
+  
+    width: 150px;
+    padding: 10px;
+}
+
+
+
+
+/* Pricing st */
+.Pricing{
+    text-align: center;
+}
+
+.tex-pricing{
+    text-align: center;
+}
+.row .asd{
+    background-color:var(--parimary-color);
+}
+.asd button{
+    width: 140px;
+  
+}
+.ase{
+    background-color: var(--parimary-color);
+    border: 3px solid red;
+    border-radius: 10%;
+    padding: 50px;
+}
+
+
+
+/* Testimonials st */
+.Testimonials-1{
+    margin-top: 200px !important;
+}
+.photo img{
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.card-text i{
+    
+    font-size: 30px;
+
+}
+.card-text{
+    margin-left: 50px;
+}
+
+/* Contact st */
+.address{
+    background-color: rgb(231, 227, 227) ;
+    text-align: center;
+    padding: 10px !important;
+}
+
+
+
+.but button{
+    text-align: center !important;
+    padding: 10px;
+}
+
+
+
+.icon-0 i{
+    font-size: 40px;
+
+
+}
+
+
+.icon-0 i:hover{
+    color: var(--color-rad) !important;
+
+}
+
+.qq p:hover{
+    color: var(--color-rad) !important;
+}
+
+.footer-1{
+    margin: auto !important;
+    
+}
+
+.main-footer{
+    margin-top: 50px !important;
+    background-color: var(--parimary-color) !important;
+}
+
+
+
+
+.sd{
+    text-align: center;
+}
+
